@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "balens"
+version = "0.0.1"
+description = "A universal Python toolkit for detecting and fixing data imbalance."
+authors = [
+    { name = "Raktim Kalita", email = "raktimkalita.ai@gmail.com" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "imbalanced-learn",
+    "typer[all]"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/balens"
+
+[project.scripts]
+balens = "balens.cli:app" 
