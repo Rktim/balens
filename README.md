@@ -16,6 +16,9 @@ A universal Python toolkit for detecting and resolving data imbalance in classif
 * 🔧 **CLI + Python SDK**: Dev-friendly and script-ready.
 
 ---
+![PyPI - Downloads](https://img.shields.io/pypi/dm/balens)
+
+---
 
 ## 🚀 Installation
 
