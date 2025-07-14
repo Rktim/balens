@@ -2,7 +2,7 @@
 
 A universal Python toolkit for detecting and resolving data imbalance in classification and regression problems. With Balens, you get intelligent binning, resampling techniques like SMOTE and ADASYN, class weight computation, and one-line fixes for your ML datasets. Whether you're building ML pipelines, AutoML workflows, or doing data science at scale — Balens has your back.
 
-[![PyPI version](https://badge.fury.io/py/balens.svg)](https://pypi.org/project/balens/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Downloads](https://static.pepy.tech/personalized-badge/balens?period=total&units=international_system&left_color=grey&right_color=blue)
+[![PyPI version](https://badge.fury.io/py/balens.svg)](https://pypi.org/project/balens/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Downloads](https://static.pepy.tech/personalized-badge/balens?period=total&units=international_system&left_color=grey&right_color=yellow)
 
 
 
