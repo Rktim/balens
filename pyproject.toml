@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "balens"
-version = "0.0.1"
+version = "0.0.2"
 description = "A universal Python toolkit for detecting and fixing data imbalance."
 authors = [
     { name = "Raktim Kalita", email = "raktimkalita.ai@gmail.com" }
@@ -20,7 +20,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/balens"
+Homepage = "https://github.com/Rktim/balens"
 
 [project.scripts]
 balens = "balens.cli:app" 
