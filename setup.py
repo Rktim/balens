@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="balens",
-    version="0.0.1",
+    version="0.0.2",
     description="A universal Python toolkit for detecting and fixing data imbalance.",
     author="Raktim Kalita",
     author_email="raktimkalita.ai@gmail.com",
